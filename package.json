@@ -1,0 +1,13 @@
+{
+  "name": "terra-ust-autobuild",
+  "version": "1.0.0",
+  "description": "Universal Semantic Translator auto-built from FMP ecosystem",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "npx wrangler pages publish ."
+  },
+  "dependencies": {},
+  "author": "Abdurashid Abdukarimov",
+  "license": "CC-BY-4.0"
+}
