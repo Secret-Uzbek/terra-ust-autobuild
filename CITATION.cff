@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this software using these metadata."
+title: "Terra Universal Semantic Translator"
+version: 1.0.0
+authors:
+  - given-names: "Abdurashid"
+    family-names: "Abdukarimov"
+    orcid: "https://orcid.org/0009-0000-6394-4912"
+repository-code: "https://github.com/Secret-Uzbek/terra-ust-autobuild"
+url: "https://secret-uzbek.github.io/terra-ust-autobuild/"
+license: CC-BY-4.0
+date-released: "2026-02-09"
